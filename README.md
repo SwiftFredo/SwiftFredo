@@ -1,6 +1,6 @@
 - 👋 Bonjour, je m'appelle Fredo.
 - 👀 Je fais de la programmation pour Mac et Ios via Swift.
-- 🌱 Mes applications sont gratuites. Vive les logciels libres!
+- 🌱 Mes applications sont gratuites. Vive les logiciels libres!
 - 💞️ I also speak english.
 
 <!---
